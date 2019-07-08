@@ -1,0 +1,91 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Air conditioners",38100019,153-0147,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3810001901",1,"CURRENT - a cube available to the public and that is current","Every 2 years",2013-01-01,2017-01-01,2
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+1,Geography,,
+2,"Air conditioners",,
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+1,Canada,[11124],1,,,,
+1,"Newfoundland and Labrador",[10],2,1,,,
+1,"Prince Edward Island",[11],3,1,,,
+1,"Nova Scotia",[12],4,1,,,
+1,"New Brunswick",[13],5,1,,,
+1,Quebec,[24],6,1,,,
+1,Ontario,[35],7,1,,,
+1,Manitoba,[46],8,1,,,
+1,Saskatchewan,[47],9,1,,,
+1,Alberta,[48],10,1,,,
+1,"British Columbia",[59],11,1,,,
+1,"Total census metropolitan areas",,12,,,,
+1,"St. John's, Newfoundland and Labrador",[001],13,12,,,
+1,"Halifax, Nova Scotia",[205],14,12,,,
+1,"Moncton, New Brunswick",[305],15,12,,,
+1,"Saint John, New Brunswick",[310],16,12,,,
+1,"Saguenay, Quebec",[408],17,12,,,
+1,"Québec, Quebec",[421],18,12,,,
+1,"Sherbrooke, Quebec",[433],19,12,,,
+1,"Trois-Rivières, Quebec",[442],20,12,,,
+1,"Montréal, Quebec",[462],21,12,,,
+1,"Ottawa-Gatineau, Ontario/Quebec",[505],22,12,,,
+1,"Ottawa-Gatineau (Quebec part)",[24505],23,22,,,
+1,"Ottawa-Gatineau (Ontario part)",[35505],24,22,,,
+1,"Kingston, Ontario",[521],25,12,,,
+1,"Peterborough, Ontario",[529],26,12,,,
+1,"Oshawa, Ontario",[532],27,12,,,
+1,"Toronto, Ontario",[535],28,12,,,
+1,"Hamilton, Ontario",[537],29,12,,,
+1,"St. Catharines-Niagara, Ontario",[539],30,12,,,
+1,"Kitchener-Cambridge-Waterloo, Ontario",[541],31,12,,,
+1,"Brantford, Ontario",[543],32,12,,,
+1,"Guelph, Ontario",[550],33,12,,,
+1,"London, Ontario",[555],34,12,,,
+1,"Windsor, Ontario",[559],35,12,,,
+1,"Barrie, Ontario",[568],36,12,,,
+1,"Greater Sudbury, Ontario",[580],37,12,,,
+1,"Thunder Bay, Ontario",[595],38,12,,,
+1,"Winnipeg, Manitoba",[602],39,12,,,
+1,"Regina, Saskatchewan",[705],40,12,,,
+1,"Saskatoon, Saskatchewan",[725],41,12,,,
+1,"Calgary, Alberta",[825],42,12,,,
+1,"Edmonton, Alberta",[835],43,12,,,
+1,"Kelowna, British Columbia",[915],44,12,,,
+1,"Abbotsford-Mission, British Columbia",[932],45,12,,,
+1,"Vancouver, British Columbia",[933],46,12,,,
+1,"Victoria, British Columbia",[935],47,12,,,
+1,"Non-census metropolitan areas",,48,,,,
+2,"Any type of air conditioner, as a percentage of all households",,1,,,2,
+2,"Central air conditioner, as a percentage of all households",,2,,,2,
+2,"Central air conditioner, as a percentage of households that had an air conditioner",,3,,,,
+2,"Stand-alone air conditioner, as a percentage of all households",,4,,,2,
+2,"Stand-alone air conditioner, as a percentage of households that had an air conditioner",,5,,,,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period",..
+"less than the limit of detection",<LOD
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded",0s
+"data quality: excellent",A
+"data quality: very good",B
+"data quality: good",C
+"data quality: acceptable",D
+"use with caution",E
+"too unreliable to be published.",F
+"not applicable",...
+preliminary,p
+revised,r
+"suppressed to meet the confidentiality requirements of the Statistics Act",x
+terminated,t
+
+"Survey Code","Survey Name"
+3881,"Households and the Environment Survey"
+
+"Subject Code","Subject Name"
+38,Environment
+
+"Note ID",Note
+1,"Source: Statistics Canada, Environment, Energy and Transportation Statistics Division."
+2,"Values may not add up to “Any type of air conditioner, as a percentage of all households” as some households may have more than one type of air conditioner."
+
+"Correction ID","Correction Date","Correction Note"
+
