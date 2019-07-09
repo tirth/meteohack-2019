@@ -13,8 +13,7 @@ def get_gmaps_client():
     global _GMAPS_CLIENT
 
     if not _GMAPS_CLIENT:
-        # os.environ['GMAPS_API']
-        _GMAPS_CLIENT = googlemaps.Client('AIzaSyD8Jyt8e2Hd4k7vH8PlVg8YEbL3X1F1T0A')
+        _GMAPS_CLIENT = googlemaps.Client(os.environ['GMAPS_API'])
 
     return _GMAPS_CLIENT
 
