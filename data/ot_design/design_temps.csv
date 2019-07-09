@@ -1,0 +1,522 @@
+,station,design_temp,province
+1,Banff CS,78,AB
+2,Bow Island,85,AB
+3,Bow Valley,80,AB
+4,Breton Plots,80,AB
+5,Brooks,86,AB
+6,Calgary IAP,80,AB
+7,Camrose,79,AB
+8,Cardston,84,AB
+9,Claresholm,84,AB
+10,Cold Lake AP,79,AB
+11,Cop Upper,79,AB
+12,Coronation,82,AB
+13,Crowsnest,80,AB
+14,Drumheller East,85,AB
+15,"Edmonton, City Centre AP",79,AB
+16,"Edmonton, IAP",78,AB
+17,"Edmonton, Namao AP",78,AB
+18,Edson AP,77,AB
+19,Elk Island National Park,80,AB
+20,Esther 1,86,AB
+21,Fort Chipewyan AP,78,AB
+22,Fort Mcmurray AP,80,AB
+23,Garden River,80,AB
+24,Grande Prairie AP,78,AB
+25,High Level AP,78,AB
+26,Highvale,78,AB
+27,Jasper,78,AB
+28,Jasper Warden,81,AB
+29,Lac La Biche,78,AB
+30,Lacombe,79,AB
+31,Lethbridge AP,85,AB
+32,Lethbridge,86,AB
+33,Lloydminster AP,80,AB
+34,McMurray AP,80,AB
+35,Medicine Hat AP,87,AB
+36,Mildred Lake,81,AB
+37,Milk River,86,AB
+38,Nakiska Ridgetop,62,AB
+39,Onefour,88,AB
+40,Peace River AP,78,AB
+41,Pincher Creek,82,AB
+42,Red Deer AP,79,AB
+43,Red Earth,79,AB
+44,Rocky Mtn. House,77,AB
+45,Slave Lake AP,76,AB
+46,Springbank AP,77,AB
+47,Stavely AACF,78,AB
+48,Sundre AP,79,AB
+49,Three Hills,82,AB
+50,Vauxhall,86,AB
+51,Vegreville,80,AB
+52,Vermilion AP,80,AB
+53,Wainwright CFB Airfield 21,82,AB
+54,Waterton Park Gate,82,AB
+55,Whitecourt AP,76,AB
+57,Abbotsford AP,82,BC
+58,Agassiz,83,BC
+59,Alert Bay,65,BC
+60,Amphitrite Point,64,BC
+61,Ballenas Island,73,BC
+62,Blue River,83,BC
+63,Bonilla Island,60,BC
+64,Burns Lake Decker Lake,77,BC
+65,Cape Scott,61,BC
+66,Cape St James,64,BC
+67,Castlegar AP,88,BC
+68,Cathedral Point,70,BC
+69,Clinton,81,BC
+70,Comox AP,76,BC
+71,Cranbrook AP,85,BC
+72,Creston Campbell Scientific,87,BC
+73,Cumshewa Island,63,BC
+74,Dawson Creek,79,BC
+75,Dease Lake,72,BC
+76,Discovery Island,70,BC
+77,Entrance Island,72,BC
+78,Esquimalt Harbour,70,BC
+79,Estevan Point,66,BC
+80,Fort Nelson AP,79,BC
+81,Fort St. John AP,76,BC
+82,Grey Islet,64,BC
+83,Herbert Island,60,BC
+84,Holland Rock,60,BC
+85,Hope,83,BC
+86,Howe Sound - Pam Rocks,74,BC
+87,Kamloops AP,89,BC
+88,Kelowna AP,87,BC
+89,Kindakun Rocks,61,BC
+90,Langara,59,BC
+91,Lillooet,91,BC
+92,Lucy Island Lightstation,62,BC
+93,Lytton,91,BC
+94,Mackenzie AP,77,BC
+95,Malahat,78,BC
+96,Nakusp,84,BC
+97,Namaimo,80,BC
+98,Nelson,85,BC
+99,New Westminster,81,BC
+100,Osoyoos,92,BC
+101,Pemberton AP,88,BC
+102,Penticton AP,87,BC
+103,Pitt Meadows,83,BC
+104,Point Atkinson,75,BC
+105,Port Alberni,84,BC
+106,Port Hardy AP,66,BC
+107,Prince George AP,78,BC
+108,Prince Rupert AP,64,BC
+109,Princeton,88,BC
+110,Puntzi Mountain,80,BC
+111,Quesnel AP,81,BC
+112,Revelstoke AP,83,BC
+113,Rose Spit,61,BC
+114,Salmon Arm,87,BC
+115,Sandheads,70,BC
+116,Sandspit AP,65,BC
+117,Sartine Island,60,BC
+118,Sheringham Point,67,BC
+119,Sisters Island,72,BC
+120,Smithers AP,77,BC
+121,Solander Island,61,BC
+122,Sparwood,82,BC
+123,Spring Island,66,BC
+124,Squamish,81,BC
+125,Summerland,88,BC
+126,Terrace AP,78,BC
+127,Tofino AP,68,BC
+128,Trail,89,BC
+129,Vancouver Harbour,76,BC
+130,Vancouver IAP,74,BC
+131,Vernon,88,BC
+132,Victoria Gonzales,72,BC
+133,Victoria Hartland,80,BC
+134,Victoria IAP,76,BC
+135,Victoria Marine,67,BC
+136,Victoria University,77,BC
+137,West Vancouver,78,BC
+138,White Rock,74,BC
+139,Williams Lake AP,79,BC
+140,Yoho Park,74,BC
+142,Berens River,79,MB
+143,Brandon AP,83,MB
+144,Carberry,83,MB
+145,Carman U of M,84,MB
+146,Churchill AP,74,MB
+147,Dauphin AP,83,MB
+148,Delta Marsh,82,MB
+149,Emerson,84,MB
+150,Fisher Branch,82,MB
+151,George Island,73,MB
+152,Gillam AP,78,MB
+153,Gimli Industrial Park,81,MB
+154,Grand Rapids,81,MB
+155,Gretna,84,MB
+156,Hunters Point,78,MB
+157,Island Lake AP,79,MB
+158,Lynn Lake AP,79,MB
+159,Melita,84,MB
+160,Norway House AP,79,MB
+161,Oakpoint,79,MB
+162,Pilot Mound,82,MB
+163,Pinawa,82,MB
+164,"Portage, Southport AP",86,MB
+165,Flin Flon,81,MB
+166,Roblin,81,MB
+167,Shoal Lake,80,MB
+168,Sprague,82,MB
+169,Swan River,82,MB
+170,The Pas AP,80,MB
+171,Thompson AP,80,MB
+172,Victoria Beach,79,MB
+173,Wasagaming,80,MB
+174,Wilson Creek Weir,82,MB
+175,Winnipeg Richardson IAP,84,MB
+177,Bas Caraquet,79,NB
+178,Charlo AP,79,NB
+179,Chatham AP,83,NB
+180,Edmundston CO,83,NB
+181,Fredericton AP,82,NB
+182,Miramichi AP,83,NB
+183,Miramichi,84,NB
+184,Miscou Island,76,NB
+185,Moncton AP,80,NB
+186,Point Escuminac,77,NB
+187,Point Lepreau,71,NB
+188,Saint John AP,76,NB
+189,St Leonard,80,NB
+190,St Stephen,82,NB
+192,Argentia,66,NL
+193,Badger,80,NL
+194,Battle Harbour,60,NL
+195,Bonavista,72,NL
+196,Burgeo 2,67,NL
+197,Cape Kakkiviak,59,NL
+198,Cape Race,64,NL
+199,Cartwright,71,NL
+200,Churchill Falls,72,NL
+201,Comfort Cove,76,NL
+202,Corner Brook,76,NL
+203,Daniels Harbour,67,NL
+204,Deer Lake AP,77,NL
+205,Englee,70,NL
+206,Ferolle Point,65,NL
+207,Gander IAP,76,NL
+208,Goose Bay AP,78,NL
+209,Grates Cove,71,NL
+210,Hopedale,68,NL
+211,La Scie,76,NL
+212,Marticot Island,65,NL
+213,Pools Island,71,NL
+214,Port Aux Basques,67,NL
+215,Saglek,63,NL
+216,Sagona Island,65,NL
+217,St Anthony,70,NL
+218,St John's AP,73,NL
+219,St Lawrence,70,NL
+220,Stephenville AP,71,NL
+221,Twillingate,73,NL
+222,Wabush Lake AP,73,NL
+224,Aulavik National Park,56,NT
+225,Cape Parry AP,55,NT
+226,Colville Lake,72,NT
+227,Fort Good Hope,79,NT
+228,Fort Liard,80,NT
+229,Fort Providence,80,NT
+230,Fort Reliance,70,NT
+231,Fort Simpson AP,80,NT
+232,Fort Smith AP,79,NT
+233,Hanbury River,71,NT
+234,Hay River AP,77,NT
+235,Inner Whalebacks,66,NT
+236,Inuvik AP,75,NT
+237,Lac La Martre,78,NT
+238,Lindburg Landing,79,NT
+239,Little Chicago,78,NT
+240,Liverpool Bay,65,NT
+241,Mould Bay AP,47,NT
+242,Nicholson Peninsula,64,NT
+243,"Norman, Wells AP",78,NT
+244,Pelly Island,62,NT
+245,Rae Lakes,76,NT
+246,Sachs Harbour,56,NT
+247,Trout Lake,76,NT
+248,Tuktoyaktuk,69,NT
+249,Yellowknife AP,74,NT
+250,Yohin,73,NT
+252,Amherst,75,NS
+253,Baccaro Point,65,NS
+254,Beaver Island,67,NS
+255,Brier Island,67,NS
+256,Caribou Point,78,NS
+257,Grand Etang,77,NS
+258,Greenwood AP,81,NS
+259,"Halifax, Stanfield IAP",79,NS
+260,Hart Island,71,NS
+261,Kejimkujik,81,NS
+262,Kentville,83,NS
+263,New Glasgow,79,NS
+264,Sable Island,70,NS
+265,Shearwater AP,76,NS
+266,St Paul Island,70,NS
+267,Sydney AP,78,NS
+268,Truro CO,71,NS
+269,Western Head,72,NS
+270,Yarmouth AP,71,NS
+272,Alert,49,NU
+273,Baker Lake AP,67,NU
+274,Brevoort Island,54,NU
+275,Byron Bay AP,60,NU
+276,Cambridge Bay AP,59,NU
+277,Cape Dorset App,57,NU
+278,Cape Dyer,52,NU
+279,Cape Hooper,53,NU
+280,Cape Mercy,51,NU
+281,Cape Peel West,63,NU
+282,Chesterfield,60,NU
+283,Clinton Point,62,NU
+284,Clyde AP,52,NU
+285,Coral Harbour AP,61,NU
+286,Croker River,65,NU
+287,Dewar Lakes,54,NU
+288,Ennadai Lake,71,NU
+289,Eureka,50,NU
+290,Fox Five,53,NU
+291,Gladman Point AP,56,NU
+292,Hall Beach AP,53,NU
+293,Hat Island,54,NU
+294,Iqaluit AP (AKA Frobisher),57,NU
+295,Jenny Lind Island AP,53,NU
+296,Kugluktuk AP,68,NU
+297,Lady Franklin Point AP,55,NU
+298,Longstaff Bluff,56,NU
+299,Mackar Inlet,57,NU
+300,Pangnirtung,55,NU
+301,Pelly Bay,58,NU
+302,Pond Inlet AP,52,NU
+303,Rankin Inlet AP,63,NU
+304,Resolute,48,NU
+305,Resolution Island,55,NU
+306,Robertson Lake,70,NU
+307,Shepherd Bay AP,60,NU
+309,Armstrong,80,ON
+310,Atikokan,82,ON
+311,Bancroft,83,ON
+312,Beausoleil,83,ON
+313,Belle River,86,ON
+314,Belleville,84,ON
+315,Big Trout Lake,76,ON
+316,Big Trout Lake Readac,78,ON
+317,Burlington Piers,84,ON
+318,Chatham,87,ON
+319,Cobourg,76,ON
+320,Collingwood,83,ON
+321,Cornwall,87,ON
+322,Cove Island,73,ON
+323,Earlton AP,81,ON
+324,Erieau,79,ON
+325,Geraldton AP,80,ON
+326,Goderich,81,ON
+327,Gore Bay AP,79,ON
+328,Great Duck Island,74,ON
+329,Grenadier Island,83,ON
+330,Hamilton,86,ON
+331,Kapuskasing AP,81,ON
+332,Kenora AP,82,ON
+333,Killarney,75,ON
+334,Kingston,84,ON
+335,Kitchener,85,ON
+336,Lagoon City,79,ON
+337,Lansdowne House,79,ON
+338,London Int'L AP,83,ON
+339,Long Point,77,ON
+340,Moosonee AP,81,ON
+341,Mount Forest,81,ON
+342,Muskoka AP,80,ON
+343,Nagagami,82,ON
+344,North Bay AP,79,ON
+345,Oshawa,86,ON
+346,"Ottawa, Macdonald-Cartier IAP",84,ON
+347,Owen Sound,82,ON
+348,Peawanuck,79,ON
+349,Petawawa AP,83,ON
+350,Peterborough AP,83,ON
+351,Pickle Lake,80,ON
+352,Point Petre,77,ON
+353,Port Colborne,77,ON
+354,Port Weller,82,ON
+355,Pukaskwa,70,ON
+356,Red Lake AP,81,ON
+357,Saint Catharines,85,ON
+358,Sarnia,86,ON
+359,Sault Ste Marie AP,80,ON
+360,Simcoe,83,ON
+361,Sioux Lookout AP,81,ON
+362,Sudbury AP,81,ON
+363,Thunder Bay AP,81,ON
+364,"Timmins, Victor Power AP",81,ON
+365,"Toronto, Buttonville AP",86,ON
+366,Toronto Island AP,80,ON
+367,"Toronto, Lester B. Pearson IAP",85,ON
+368,Trenton AP,82,ON
+369,Upsala,80,ON
+370,Wawa,75,ON
+371,Welcome Island,73,ON
+372,Wiarton AP,80,ON
+373,Windsor AP,87,ON
+375,Amqui,80,QC
+376,Bagotville AP,81,QC
+377,Baie-Comeau,74,QC
+378,Baie-Comeau AP,72,QC
+379,Barrage Temiscamingue,83,QC
+380,Beauceville,81,QC
+381,Blanc-Sablon AP,63,QC
+382,Bonnard,76,QC
+383,Cap-Chat,70,QC
+384,Cap-D'Espoir,68,QC
+385,Cap-Madeleine,72,QC
+386,Cap-Rouge,78,QC
+387,Cap-Tourmente,81,QC
+388,Charlevoix,73,QC
+389,Chevery,66,QC
+390,"Chibougamau, Chapais AP",78,QC
+391,Chicoutimi,83,QC
+392,Chute-Des-Passes,78,QC
+393,Deschambault,81,QC
+394,Drummondville,85,QC
+395,Frelighsburg,82,QC
+396,Gaspe AP,78,QC
+397,Granby,85,QC
+398,Grindstone Island,70,QC
+399,Havre-Saint-Pierre AP,71,QC
+400,Heath Point,64,QC
+401,Hull,87,QC
+402,Ile Aux Perroquets,60,QC
+403,Ile Rouge,62,QC
+404,Iles De La Madeleine,73,QC
+405,Inukjuak AP,65,QC
+406,Jonquiere,81,QC
+407,Kuujjuaq AP,71,QC
+408,Kuujjuarapik AP,72,QC
+409,L'Acadie,84,QC
+410,L'Assomption,84,QC
+411,L'Etape,74,QC
+412,La Baie,81,QC
+413,La Grande Iv AP,76,QC
+414,La Grande Riviere AP,76,QC
+415,La Pocatiere,80,QC
+416,La Tuque,83,QC
+417,Lac Benoit,76,QC
+418,Lac Eon,75,QC
+419,Lac Saint-Pierre,79,QC
+420,Lake Eon AP,70,QC
+421,Lennoxville,82,QC
+422,Longue-Pointe-De-Mingan,67,QC
+423,Maniwaki AP,83,QC
+424,Maniwaki Ua,81,QC
+425,Manouane Est,76,QC
+426,Matagami AP,81,QC
+427,Mctavish,84,QC
+428,Megantic AP,83,QC
+429,Mistook,81,QC
+430,Mont-Joli AP,77,QC
+431,Mont-Orford,74,QC
+432,Montreal-Est,84,QC
+433,"Montreal, Mirabel IAP",82,QC
+434,"Montreal, Pierre Elliott Trude AP",83,QC
+435,"Montreal, St-Hubert AP",83,QC
+436,Natashquan AP,68,QC
+437,New Carlisle,76,QC
+438,Nicolet,81,QC
+439,Nitchequon,69,QC
+440,Normandin,80,QC
+441,Onatchiway,80,QC
+442,Parent,79,QC
+443,Pointe Claveau,76,QC
+444,Pointe Noire,73,QC
+445,Pointe-Au-Pere,71,QC
+446,Pointe-Des-Monts,65,QC
+447,Port-Menier,72,QC
+448,"Quebec, Jean Lesage IAP",81,QC
+449,Rimouski,79,QC
+450,Riviere-Du-Loup,77,QC
+451,Roberval AP,80,QC
+452,Rouyn,81,QC
+453,Rouyn AP,81,QC
+454,Schefferville AP,71,QC
+455,Sept-Iles AP,70,QC
+456,Sherbrooke AP,81,QC
+457,St-Anicet,84,QC
+458,St. Jean,86,QC
+459,St. Jeirome,86,QC
+460,St-Jovite,82,QC
+461,St. Hubert AP,83,QC
+462,Schefferville AP,69,QC
+463,Sept. lles AP,69,QC
+464,Shawinigan,84,QC
+465,Sherbrooke CO,80,QC
+466,Ste Agathe Des Monts,79,QC
+467,Ste-Anne-De-Bellevue,83,QC
+468,Ste-Clothilde,84,QC
+469,Ste-Foy (U. Laval),82,QC
+470,Thetford Mines,84,QC
+471,Trois-Rivieres,79,QC
+472,Val-D'Or AP,81,QC
+473,Valleyfield,86,QC
+474,Varennes,84,QC
+476,Assiniboia AP,86,SK
+477,Broadview,83,SK
+478,Collins Bay,75,SK
+479,Coronach,87,SK
+480,Cree Lake,76,SK
+481,Cypress Hills Park,80,SK
+482,Eastend Cypress,83,SK
+483,Elbow,86,SK
+484,Estevan AP,86,SK
+485,Hudson Bay,81,SK
+486,Indian Head,83,SK
+487,Key Lake AP,78,SK
+488,Kindersley AP,84,SK
+489,La Ronge AP,79,SK
+490,Last Mountain,83,SK
+491,Leader AP,87,SK
+492,Lucky Lake,84,SK
+493,Maple Creek,86,SK
+494,Meadow Lake AP,80,SK
+495,Melfort,81,SK
+496,Moose Jaw AP,87,SK
+497,Moose Jaw CO,86,SK
+498,Nipawin AP,81,SK
+499,North Battleford AP,82,SK
+500,Outlook,85,SK
+501,Prince Albert AP,81,SK
+502,Regina AP,85,SK
+503,Rockglen,85,SK
+504,Rosetown East,84,SK
+505,Saskatoon Diefenbaker IAP,84,SK
+506,"Saskatoon, Kernen Farm",83,SK
+507,Scott,83,SK
+508,Southend,78,SK
+509,Spiritwood West,80,SK
+510,Stony Rapids ,79,SK
+511,Swift Current AP,84,SK
+512,Swift Current CO,85,SK
+513,Uranium City,76,SK
+514,"Val Marie, Southeast",89,SK
+515,Waskesiu Lake,79,SK
+516,"Watrous, East",83,SK
+517,Weyburn,86,SK
+518,Wynyard,82,SK
+519,Yorkton AP,82,SK
+521,Burwash AP,70,YT
+522,Faro,75,YT
+523,Haines Junction,73,YT
+524,Herschel Is,58,YT
+525,Ivvavik Nat. Pa,71,YT
+526,Komakuk Be,60,YT
+527,Mayo AP,77,YT
+528,Rock River,69,YT
+529,Shingle Point AP,68,YT
+530,Teslin,73,YT
+531,Watson Lake AP,75,YT
+532,Whitehorse AP,74,YT
