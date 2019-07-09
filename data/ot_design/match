@@ -1,0 +1,30 @@
+import requests
+import pandas as pd
+
+r = requests.get(
+    "https://geo.weather.gc.ca/geomet/features/collections/climate-monthly/items")
+j = r.json()
+
+stations = []
+station_names = []
+for feature in j['features']:
+    props = feature['properties']
+
+    station = {
+        "STATION_NAME": props['STATION_NAME'],
+        "STN_ID": props['STN_ID'],
+        "LONGITUDE": props['LONGITUDE'],
+        "LATITUDE": props['LATITUDE'],
+        "COOLING_DEGREE_DAYS": props['COOLING_DEGREE_DAYS']
+    }
+    if props['COOLING_DEGREE_DAYS'] is not None:
+        if props['STATION_NAME'] not in station_names:
+            stations.append(station)
+            station_names.append(props['STATION_NAME'])
+stations_df = pd.DataFrame(stations)
+
+design = pd.read_csv('design_temps.csv')
+design = design.iloc[:,1:]
+
+
+

@@ -3,8 +3,6 @@ from PyPDF2 import PdfFileWriter, PdfFileReader
 from tabula import read_pdf
 import pandas as pd
 import numpy as np
-import json
-import requests
 
 PROVINCES = {'Alberta': 'AB', 'British Columbia': 'BC', 'Manitoba': 'MB',
              'New Brunswick': 'NB', 'New Foundland and Labrador': 'NL',
@@ -51,5 +49,3 @@ final = final[pd.notnull(final['Cooling'])]
 final.columns = ['station', 'design_temp', 'province']
 final.to_csv('design_temps.csv')
 
-d = json.loads(requests.get('https://geo.weather.gc.ca/geomet/features/collections/climate-monthly/items').text)
-list(d.keys())
